@@ -7,6 +7,7 @@ This repository is about my 102 class reading notes
 2. Remember that even i can face hard times and feel hopeless but as much effort i give as much good results i will get.
 3. Remember that **time is going to pass anyway** so why not spend it in doing things that will benefit me for now and the future.
  and to keep motivated read [this article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) about growth mindset.
+ 
  ![no pain no gain](https://www.marylebonephysio.com/wp-content/uploads/2016/04/No-Pain-No-Gain.jpg)
  
  My Name: Thuraya Oudi,
