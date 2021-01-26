@@ -5,3 +5,4 @@
 1. [growth mindset](growthmindset.md)  
 2. [read02a](read02a.md)
 3. [read02b](read02b.md)
+4. [read03a](read03a.md)
