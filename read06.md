@@ -14,4 +14,10 @@ In **RGB Vlaues** the colers red green and blue are measured from 0 to 255 so fo
 
 The color hue is like color gradation and saturation is the amount of grey in the color ,and brightness is the amount of black in the color.when chosing background and font color there must be enough contrast between font color and background color to have a readable text, not too low and not too high contrast.Rgba adds opacity to rgb which represents transparancy.There is **HSL** colors represent hue, saturation and lightness which is the amount of white and there's hsla colors when opacity is added to them.
 
+# javaScript
+## Functions
+### page 88-94
+Functions group statements to achieve a task and store code until it's needed we can call whenever we want thus we make code reusable. A function declaration is made by typing the function keyword first and then the function name and parantheses, and inside these paranthese we can add a parameter , after them we type the statements inside curly brackets.And we call it by its name afollowd by paranthese in which we can add argument for the parameter.
+
+
 
