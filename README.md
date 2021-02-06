@@ -2,6 +2,8 @@
 * 23 years old
 *  English Language and Literatute graduate and web development student https://github.com/Thuraya12
 
+# Reading Notes for 102 web development course.
+
 1. [growth mindset](growthmindset.md)  
 2. [read02a](read02a.md)
 3. [read02b](read02b.md)
@@ -9,3 +11,6 @@
 5. [read04](read04.md)
 6. [read05](read05.md)
 7. [read06](read06.md)
+
+
+# Reading Notes for 201 web development course.
