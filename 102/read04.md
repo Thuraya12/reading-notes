@@ -1,6 +1,6 @@
 # java script and jQuery
 ### Intro+script: 
-JavaScript is used to make webdites more interactive and interesting and easier to use and jQuery makes writing in javascript easier. To learn Javascript you need to know building pages with HTML and CSS and then learn javascript vocabulary and syntax and know how to apply it to websites.
+JavaScript is used to make websites more interactive and interesting and easier to use and jQuery makes writing in javascript easier. To learn Javascript you need to know building pages with HTML and CSS and then learn javascript vocabulary and syntax and know how to apply it to websites.
 #### How JavaScript makes webpages more interactive 
 JS makes webpages more interactive by accessing content and modifiying it via selecting elements, attributes or text from HTML text. And you can modify content by adding or deleting elements, attributes and text.And by javascript we can program rules which are instructions for the browser to follow and it can react to events.
 
