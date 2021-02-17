@@ -12,16 +12,16 @@ within the form tag **input**tag is used to determin what type of input will be 
 
 ## Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 
- #### Specify the type of bullet p oint or numbering on lists
+#### Specify the type of bullet p oint or numbering on lists
 Using the **list-style-type** property determins how a bullet point(marker) looks, and we can use it with ol, ul, and li. With ul we can use the values: none, disk, circle, and square. with ol we can ues the vlaues decimal, decimal-leading zero, upper-alpha, lower-alpha,upper-roman and lower-roman.
 And we can add images for bullets using **list-style-image** property.
 
- #### Add borders to table cells
+#### Add borders to table cells
  When we have empty cells and we want to make it look without a border we use empty-cells propert with hide value, and when we want to put border around the empty cell  we use show value with the empty-cells property.
 border-spacing property is used to change the space between cells, and if we use border-collapse the border spacing gets removed.
 
 
- #### Control the appearance of form controls
+#### Control the appearance of form controls
  Forms can be styled using CSS to make them look more attractive so that people are more likely to fill them, and to make consistency for their look across different browsers.We can style the text input by fonts and background colors, border and hover and background images, and we can style submit buttons with shadow and coler and background color.
 
 
