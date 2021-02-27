@@ -1,14 +1,14 @@
- # Read11
+# Read11
 ## From the Duckett HTML book:
 ## Chapter 16: “Images” (pp.406-427)
 
 #### Controlling size of images in CSS
 We can control size of images using **width** and **height** properties in css or use class names are used that determins your pictures' sizes such as small, medium, and large and use them with the width and height properties. Specifying pictures width and height is good when rendering in the browser.
- ### Aligning images in CSS
+### Aligning images in CSS
 
  Images can be aligned using align attribute or using float property. We can center images by returning them from inline elements to block elements display: block; and then center them with text align property or using marging auto proprety.
 
- ### Adding background images
+### Adding background images
  Background images can be used behind any HTML element specifically, or for the whole body, it can be added by typing the selector and then background image property and then set a url with the image path, e.g.*body {backgroung-image: url('images/cat.jpg');}*. There is also a background-repeat property that can be used with four different values:
  1. repeat gets the background images image repeated horizontally and vertically.
  2. repeat-x : reapeats background images horizontally.
@@ -32,12 +32,12 @@ Video and audio tags are used in html5 to embed audio and video to your website,
 
 ## Chapter 9: pages 201-206 
  **Flash is no longer supported by many browsers but is an important part of history**.
- 
- ### How to add Flash movies into your site
+
+### How to add Flash movies into your site
  flash is popular for adding audio and video to websites,but it started as a tool for adding animation, and wheather you add animation or mediaplayer it is considered as **Flash movies** . To create Flash movie we have to download the paid flash software from adobe but there are other companies that offer flash for free.
  When you create a flash file it gets saved with .fla extension but when used on the web it has a .swf extension. The code created when exporting the movie used to be imbeded in html elements **object** and **embed**, now it is imbeded using javascript.
  
- ### HTML5 <video> and <audio> elements
+### HTML5 <video> and <audio> elements
  Flash became to be used fewer among website because many things has been launched that made the making of animation easier such as javascript libraries of prototype, script and jQuery. And now HTML5 is more used instead because is supports **audio** and **video** tags. 
 
 
