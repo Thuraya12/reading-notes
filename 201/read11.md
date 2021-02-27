@@ -4,6 +4,7 @@
 
 #### Controlling size of images in CSS
 We can control size of images using **width** and **height** properties in css or use class names are used that determins your pictures' sizes such as small, medium, and large and use them with the width and height properties. Specifying pictures width and height is good when rendering in the browser.
+
 ### Aligning images in CSS
 
  Images can be aligned using align attribute or using float property. We can center images by returning them from inline elements to block elements display: block; and then center them with text align property or using marging auto proprety.
